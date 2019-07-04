@@ -13,3 +13,14 @@ p {
 ul {
   line-height: 40px;
 }
+body {
+  background-color: red;
+}
+ul {
+  color: green;
+  font-style: oblique;
+}
+ol {
+  font-family: fantasy;
+  line-height: 50px;
+}
